@@ -1,0 +1,8 @@
+site_name: PyTorch lab
+site_description: PyTorch lab
+site_author: Tomek Czajka
+
+nav:
+  - Home: index.md
+  - Tensors: Tensors.md
+  - 'Digit classifier': DigitClassifier.md
