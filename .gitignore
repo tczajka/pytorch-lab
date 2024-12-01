@@ -1,4 +1,5 @@
 /data
 /venv
+/site
 *.swp
 .ipynb_checkpoints
